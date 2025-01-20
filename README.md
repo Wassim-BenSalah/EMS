@@ -40,5 +40,5 @@ The **Event Management System (EMS)** is a web-based application designed to str
 ### Steps to Run
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Wassim-BenSalah/EMS
+   git clone https://github.com/Wassim-BenSalah/EMS.git
    cd EMS
